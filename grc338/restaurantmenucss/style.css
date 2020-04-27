@@ -5,10 +5,6 @@ h1{
     font-size:4em;
 }
 
-h2{
-    font-family:san-serif;
-}
-
-h3{
-    font-family:san-serif;
+p.price{
+    color:rgb(100,100,255);
 }
