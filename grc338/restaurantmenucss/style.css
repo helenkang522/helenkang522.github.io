@@ -7,12 +7,14 @@ h1{
 
 h2{
     font-family:san-serif;
+    font-size:3em;
 }
 
 h3{
     background-color:rgb(100, 120, 205);
     color:rgb(0,0,0);
     font-family:san-serif;
+    font-size:2em;
     text-transform:uppercase;
 }
 
