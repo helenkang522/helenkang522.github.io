@@ -8,7 +8,7 @@ h1{
 
 h2{
     color:rgb(100, 120, 205);
-    font-family: san-serif;
+    font-family: sans-serif;
     font-size:3em;
     text-align: center;
 }
@@ -16,7 +16,7 @@ h2{
 h3{
     background-color:rgb(100, 120, 205);
     color:rgb(255,255,255);
-    font-family: san-serif;
+    font-family: sans-serif;
     font-size:2em;
     text-transform:uppercase;
     text-align: center;
@@ -33,5 +33,5 @@ h4{
 }
 
 .description{
-    font-family: san-serif;
+    font-family: sans-serif;
 }
