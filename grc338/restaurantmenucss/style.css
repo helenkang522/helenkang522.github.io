@@ -24,16 +24,14 @@ h3{
 
 h4{
     color:rgb(100, 120, 205);
-    font-size:1.5em;
+    font-size:.75em;
 }
 
 .price{
     color:rgb(50, 70, 155);
     font-weight: bold;
-    font-size:1.5em;
 }
 
 .description{
     font-family: san-serif;
-    font-size:1em;
 }
