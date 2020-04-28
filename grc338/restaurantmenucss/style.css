@@ -22,6 +22,10 @@ h3{
     text-align: center;
 }
 
+h4{
+    color:rgb(100, 120, 205);
+}
+
 .price{
     color:rgb(50, 70, 155);
 }
