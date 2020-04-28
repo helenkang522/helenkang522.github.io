@@ -9,7 +9,7 @@ h1{
 h2{
     color:rgb(100, 120, 205);
     font-family: sans-serif;
-    font-size:3em;
+    font-size:2em;
     text-align: center;
 }
 
@@ -17,7 +17,7 @@ h3{
     background-color:rgb(100, 120, 205);
     color:rgb(255,255,255);
     font-family: sans-serif;
-    font-size:2em;
+    font-size:1.5em;
     text-transform:uppercase;
     text-align: center;
 }
@@ -27,7 +27,7 @@ h4{
 }
 
 .price{
-    color:rgb(50, 70, 155);
+    color:rgb(100, 120, 205);
     font-weight: bold;
 }
 
