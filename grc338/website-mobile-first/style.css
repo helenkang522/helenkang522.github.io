@@ -1,0 +1,92 @@
+@import url("https://use.typekit.net/nqg4ble.css");
+
+.logo{
+    width:500px;
+}
+
+.introimage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%
+}
+
+.aboutimage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%
+}
+
+.menuimage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%
+}
+
+.locationimage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%
+}
+
+div.container{
+    margin:auto;
+    max-width: 40em;
+}
+
+h1{
+    float: left;
+}
+
+h2{
+    font-family: bodoni-urw, serif;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+    font-size: 2.5em;
+    margin-top: .5em;
+    margin-bottom: 0em;
+}
+
+h3{
+    font-family: bodoni-urw, serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 1.5em;
+    margin-bottom: 0em;
+}
+
+p{
+    font-family: bodoni-urw, serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 1.1em;
+    margin-top: 0.2em;
+    margin-bottom: .2em;
+}
+
+nav{
+    float: right;
+    padding-top: 5.5em;
+}
+nav ul{
+    padding: 0;
+}
+
+nav ul li{
+    list-style: none;
+    display: inline;
+    margin-left: 2em;
+    font-family: bodoni-urw, serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 1.5em;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: black;
+}
