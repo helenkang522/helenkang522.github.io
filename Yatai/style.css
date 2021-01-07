@@ -83,13 +83,21 @@ h4{
     margin-bottom: .2em; 
 }
 
+
 .price{
     font-family: futura-pt-condensed, sans-serif;
     font-style: normal;
     font-weight: 500;
-    font-size: 2em;
+    font-size:2em;
     margin-top: .2em;
 }
 
-
+.fineprint {
+    font-family: marine-oblicua, sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size:.75em;
+    margin: 2em;
+    text-align: center;
+}
     
